@@ -82,11 +82,11 @@
 	<distributionManagement>
 		<repository>
 			<id>packagecloud-ourchitecture</id>
-			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-appinsights-starter</url>
+			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-starter-appinsights</url>
 		</repository>
 		<snapshotRepository>
 			<id>packagecloud-ourchitecture</id>
-			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-appinsights-starter</url>
+			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-starter-appinsights</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
