@@ -5,12 +5,12 @@
 	<packaging>jar</packaging>
 
 	<groupId>ourchitecture</groupId>
-	<artifactId>spring-boot-appinsights-starter</artifactId>
+	<artifactId>spring-boot-starter-appinsights</artifactId>
 	<!--<version>0.0.3-SNAPSHOT</version>-->
 	<version>0.1.0.RELEASE</version>
 
-	<name>ourchitecture-spring-boot-appinsights-starter</name>
-	<url>https://github.com/ourchitecture/spring-boot-appinsights-starter</url>
+	<name>ourchitecture-spring-boot-starter-appinsights</name>
+	<url>https://github.com/ourchitecture/spring-boot-starter-appinsights</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
